@@ -1,5 +1,5 @@
 import React from "react";
-import Property from "../../assets/Property.jpg";
+import Property from "../../assets/property.jpg";
 
 const Analytics = () => {
   return (
